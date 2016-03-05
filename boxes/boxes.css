@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#one{
+		width: 90%;
+		height: 40%;
+		margin: 100px;
+		float: left;
+		padding: 50px 20px;
+		text-align: center;
+		background:#9AE9DD
+	}
+	
+	#two{
+		width: 90%;
+		height: 40%;
+		margin: 100px;
+		float: left;
+		padding: 100px;
+		text-align: center;
+	}
+	
+#three{
+		width: 90%;
+		height: 40%;
+		margin: 100px;
+		float: left;
+		padding: 50px 20px;
+		text-align: center;
+		border:dotted
+	}
+	
+	#four{
+		width: 49%;
+		height: 40%;
+		margin: 0%;
+		float: left;
+		padding: 1%;
+		text-align: center;
+	}
+	
